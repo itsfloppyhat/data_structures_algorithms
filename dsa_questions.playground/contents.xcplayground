@@ -3,5 +3,6 @@
     <pages>
         <page name='two_number_sum'/>
         <page name='Validate Subsequence'/>
+        <page name='Sorted Square Array'/>
     </pages>
 </playground>
