@@ -2,6 +2,6 @@
 <playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
     <pages>
         <page name='two_number_sum'/>
-        <page name='Untitled Page'/>
+        <page name='Validate Subsequence'/>
     </pages>
 </playground>
