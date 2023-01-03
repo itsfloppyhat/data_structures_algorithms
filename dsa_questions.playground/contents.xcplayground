@@ -4,5 +4,6 @@
         <page name='two_number_sum'/>
         <page name='Validate Subsequence'/>
         <page name='Sorted Square Array'/>
+        <page name='Tournament Winner'/>
     </pages>
 </playground>
