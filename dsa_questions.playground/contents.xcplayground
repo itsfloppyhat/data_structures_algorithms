@@ -6,5 +6,6 @@
         <page name='Sorted Square Array'/>
         <page name='Tournament Winner'/>
         <page name='Non-Constructible Change'/>
+        <page name='Find Closest Value in BST'/>
     </pages>
 </playground>
